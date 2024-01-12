@@ -1,0 +1,11 @@
+.grafo-imagen {
+    
+body {
+    text-align: center;
+}
+    width: 50%;
+    max-width: 400px;
+    height: 550px;
+    display: block;
+    margin: 0 auto;
+}
